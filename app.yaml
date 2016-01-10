@@ -7,7 +7,7 @@ handlers:
 - url: /phpinfo.php
   script: phpinfo.php
 
-- url: /.*
+- url: /
   script: index.php
 
 - url: /favicon\.ico
