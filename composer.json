@@ -1,0 +1,19 @@
+{
+    "name": "tayutaedomo/gae-php",
+    "description": "This app is PHP app on Google App Engine.",
+    "type": "project",
+    "require": {
+    },
+    "require-dev": {
+        "phpunit/phpunit": "^4.8"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tayutaedomo",
+            "email": "tayutaedomo@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
+
