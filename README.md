@@ -1,6 +1,7 @@
 # gae-php
 Execute php script on Google App Engine.
 
+
 # Local development
 ## Setup
 Create a new GAE project.
@@ -22,6 +23,15 @@ $ dev_appserver.py gae-php
 
 Your App should now be running on localhost:8080.
 Your Admin should now be running on localhost:8000.
+
+# Deploy
+Deploy by following command:
+```
+appcfg.py -A <your app name> update app.yaml
+```
+
+Access to http://<your app name>.appspot.com/.
+
 
 # [helloworld.php](helloworld.php)
 Show 'Hello World'.
