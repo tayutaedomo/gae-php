@@ -48,3 +48,6 @@ Show 'Hello World'.
 # favicon
 See: https://cloud.google.com/appengine/kb/#erroruris
 
+# [/phpinfo.php](phpinfo.php)
+Show phpinfo.
+
