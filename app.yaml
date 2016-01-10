@@ -5,7 +5,7 @@ api_version: 1
 
 handlers:
 - url: /.*
-  script: helloworld.php
+  script: index.php
 
 - url: /favicon\.ico
   static_files: static/images/favicon.ico

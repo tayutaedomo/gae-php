@@ -42,7 +42,7 @@ Deploy by codeship.<br>
 [ ![Codeship Status for tayutaedomo/gae-php](https://codeship.com/projects/47efc750-999a-0133-7859-72dca61597c3/status?branch=master)](https://codeship.com/projects/126275)
 
 
-# [helloworld.php](helloworld.php)
+# [Index Page](index.php)
 Show 'Hello World'.
 
 # favicon
