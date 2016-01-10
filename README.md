@@ -26,3 +26,6 @@ Your Admin should now be running on localhost:8000.
 # [helloworld.php](helloworld.php)
 Show 'Hello World'.
 
+# favicon
+See: https://cloud.google.com/appengine/kb/#erroruris
+
