@@ -5,10 +5,10 @@ api_version: 1
 
 handlers:
 - url: /phpinfo.php
-  script: phpinfo.php
+  script: app/phpinfo.php
 
 - url: /
-  script: index.php
+  script: app/index.php
 
 - url: /favicon\.ico
   static_files: static/images/favicon.ico
