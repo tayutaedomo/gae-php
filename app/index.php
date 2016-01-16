@@ -12,13 +12,16 @@
 <body>
 <h1>Links</h1>
 <div class="row">
-  <div class="small-12">
+  <div class="small-11 small-offset-1 columns">
     <ul>
       <li><a href="/phpinfo.php">phpinfo.php</a></li>
       <li><a href="/session.php">session.php</a></li>
     </ul>
   </div>
 </div>
+<script type="text/javascript">
+  $(function(){ $(document).foundation(); });
+</script>
 </body>
 </html>
 
