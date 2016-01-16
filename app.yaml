@@ -7,6 +7,9 @@ handlers:
 - url: /phpinfo.php
   script: app/phpinfo.php
 
+- url: /session.php
+  script: app/session.php
+
 - url: /
   script: app/index.php
 

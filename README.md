@@ -32,18 +32,24 @@ Deploy by following command:
 $ appcfg.py -A <your app name> update app.yaml
 ```
 
-Access to http://<your app name>.appspot.com/.
+Access to http://&lt;your app name&gt;.appspot.com/.
 
-Deploy by codeship.<br>
+## By codeship
 [ ![Codeship Status for tayutaedomo/gae-php](https://codeship.com/projects/47efc750-999a-0133-7859-72dca61597c3/status?branch=master)](https://codeship.com/projects/126275)
 
+# Admin Console
+- https://appengine.google.com/
 
-# [Index Page](index.php)
+# Source
+## [index.php](https://github.com/tayutaedomo/gae-php/blob/master/app/index.php)
 Show 'Hello World'.
 
-# favicon
+## favicon
 See: https://cloud.google.com/appengine/kb/#erroruris
 
-# [/phpinfo.php](phpinfo.php)
+## [phpinfo.php](https://github.com/tayutaedomo/gae-php/blob/master/app/phpinfo.php)
 Show phpinfo.
+
+## [session.php](https://github.com/tayutaedomo/gae-php/blob/master/app/session.php)
+Use PHP session.
 
